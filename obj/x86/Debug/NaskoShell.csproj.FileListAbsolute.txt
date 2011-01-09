@@ -1,0 +1,43 @@
+D:\downloads\GlobalHook\NaskoShell\bin\Debug\NaskoShell.exe
+D:\downloads\GlobalHook\NaskoShell\bin\Debug\NaskoShell.pdb
+D:\downloads\GlobalHook\NaskoShell\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\downloads\GlobalHook\NaskoShell\obj\x86\Debug\NaskoShell.Form1.resources
+D:\downloads\GlobalHook\NaskoShell\obj\x86\Debug\NaskoShell.Properties.Resources.resources
+D:\downloads\GlobalHook\NaskoShell\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\downloads\GlobalHook\NaskoShell\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\downloads\GlobalHook\NaskoShell\obj\x86\Debug\NaskoShell.exe
+D:\downloads\GlobalHook\NaskoShell\obj\x86\Debug\NaskoShell.pdb
+D:\downloads\GlobalHook\NaskoShell\obj\x86\Debug\NaskoShell.TimeControl.resources
+D:\downloads\GlobalHook\NaskoShell\bin\Debug\System.Data.SQLite.dll
+D:\downloads\GlobalHook\NaskoShell\bin\Debug\System.Data.SQLite.xml
+D:\downloads\GlobalHook\NaskoShell\bin\Debug\NaskoShell.exe.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\NaskoShell\bin\Debug\NaskoShell.exe.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\NaskoShell\obj\x86\Debug\NaskoShell.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\NaskoShell\obj\x86\Debug\NaskoShell.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\NaskoShell\bin\Debug\NaskoShell.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\NaskoShell\bin\Debug\NaskoShell.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\NaskoShell\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\NaskoShell\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\NaskoShell\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\NaskoShell\obj\x86\Debug\NaskoShell.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\NaskoShell\obj\x86\Debug\NaskoShell.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\NaskoShell\obj\x86\Debug\NaskoShell.TimeControl.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\NaskoShell\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\NaskoShell\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Visual Studio 2010\Projects\NaskoShell\bin\Debug\NaskoShell.exe.config
+D:\Projects\Visual Studio 2010\Projects\NaskoShell\obj\x86\Debug\NaskoShell.exe
+D:\Projects\Visual Studio 2010\Projects\NaskoShell\obj\x86\Debug\NaskoShell.pdb
+D:\Projects\Visual Studio 2010\Projects\NaskoShell\bin\Debug\NaskoShell.exe
+D:\Projects\Visual Studio 2010\Projects\NaskoShell\bin\Debug\NaskoShell.pdb
+D:\Projects\Visual Studio 2010\Projects\NaskoShell\bin\Debug\System.Data.SQLite.dll
+D:\Projects\Visual Studio 2010\Projects\NaskoShell\bin\Debug\System.Data.SQLite.xml
+D:\Projects\Visual Studio 2010\Projects\NaskoShell\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Visual Studio 2010\Projects\NaskoShell\obj\x86\Debug\NaskoShell.AddToDoForm.resources
+D:\Projects\Visual Studio 2010\Projects\NaskoShell\obj\x86\Debug\NaskoShell.Properties.Resources.resources
+D:\Projects\Visual Studio 2010\Projects\NaskoShell\obj\x86\Debug\NaskoShell.TimeControl.resources
+D:\Projects\Visual Studio 2010\Projects\NaskoShell\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Visual Studio 2010\Projects\NaskoShell\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Visual Studio 2010\Projects\NaskoShell\obj\x86\Debug\NaskoShell.MainForm.resources
+D:\Projects\Visual Studio 2010\Projects\NaskoShell\obj\x86\Debug\NaskoShell.LauncherForm.resources
+D:\Projects\Visual Studio 2010\Projects\NaskoShell\obj\x86\Debug\ResGen.read.1.tlog
+D:\Projects\Visual Studio 2010\Projects\NaskoShell\obj\x86\Debug\ResGen.write.1.tlog
